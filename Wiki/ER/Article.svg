@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="21cm" height="8cm" viewBox="134 79 416 157" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="140" y="101" width="81.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="101" width="81.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="180.95" y="123">Article</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="180.7" y1="198" x2="180.9" y2="149.236"/>
+    <polygon style="fill: #ffffff" points="185.9,149.256 180.941,139.236 175.9,149.215 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="185.9,149.256 180.941,139.236 175.9,149.215 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="135.9" y="198" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="135.9" y="198" width="89.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="180.7" y="220">Vêtement</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="282,119.72 348.2,80 414.4,119.72 348.2,159.44 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="282,119.72 348.2,80 414.4,119.72 348.2,159.44 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="276" y="113.72"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="420.4" y="113.72"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="348.2" y="123.72">Photographié</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="482.9" y="103" width="66.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="482.9" y="103" width="66.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="516.15" y="125">Photo</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="221.9" y1="119" x2="282" y2="119.72"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="414.4" y1="119.72" x2="482.9" y2="121"/>
+</svg>
