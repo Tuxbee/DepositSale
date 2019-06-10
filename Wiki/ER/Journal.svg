@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="59cm" height="26cm" viewBox="37 28 1174 508" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="59cm" height="29cm" viewBox="37 28 1174 565" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect style="fill: #ffffff" x="731.9" y="499" width="66.5" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="731.9" y="499" width="66.5" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="765.15" y="521">Depôt</text>
-  </g>
-  <g>
-    <polygon style="fill: #ffffff" points="361,424.27 446.45,373 531.9,424.27 446.45,475.54 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="361,424.27 446.45,373 531.9,424.27 446.45,475.54 "/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="355" y="418.27">n</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="537.9" y="418.27">1</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="446.45" y="428.27">Concerne articles</text>
+    <polygon style="fill: #ffffff" points="361,422.96 442.6,374 524.2,422.96 442.6,471.92 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="361,422.96 442.6,374 524.2,422.96 442.6,471.92 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="355" y="416.96">n</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="530.2" y="416.96">1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="442.6" y="426.96">articles déposés</text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="38.9" y="405" width="81.9" height="36"/>
@@ -22,11 +17,6 @@
     <rect style="fill: #ffffff" x="513.9" y="191" width="66.5" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="513.9" y="191" width="66.5" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="547.15" y="213">Vente</text>
-  </g>
-  <g>
-    <rect style="fill: #ffffff" x="600.9" y="499" width="81.9" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600.9" y="499" width="81.9" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="641.85" y="521">Retrait</text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="641.9" y="81" width="128.1" height="36"/>
@@ -52,16 +42,6 @@
     <rect style="fill: #ffffff" x="594.9" y="405.5" width="220.5" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594.9" y="405.5" width="220.5" height="36"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="705.15" y="427.5">Journal-Stock Fournisseur</text>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="765.15" y1="499" x2="713.984" y2="449.966"/>
-    <polygon style="fill: #ffffff" points="717.444,446.356 706.764,443.047 710.525,453.576 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="717.444,446.356 706.764,443.047 710.525,453.576 "/>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="641.85" y1="499" x2="696.093" y2="449.727"/>
-    <polygon style="fill: #ffffff" points="699.455,453.428 703.495,443.003 692.731,446.026 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="699.455,453.428 703.495,443.003 692.731,446.026 "/>
   </g>
   <g>
     <polygon style="fill: #ffffff" points="857.9,423.7 954.9,365.5 1051.9,423.7 954.9,481.9 "/>
@@ -106,14 +86,14 @@
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="770" y1="99" x2="921.9" y2="99.25"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1154.25" y1="405.5" x2="1154.4" y2="99.25"/>
   <g>
-    <polygon style="fill: #ffffff" points="187.9,98.32 292.6,35.5 397.3,98.32 292.6,161.14 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="187.9,98.32 292.6,35.5 397.3,98.32 292.6,161.14 "/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="181.9" y="92.32">n</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="403.3" y="92.32">1</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="292.6" y="102.32">Remboursement articles</text>
+    <polygon style="fill: #ffffff" points="187.9,98.39 281.05,42.5 374.2,98.39 281.05,154.28 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="187.9,98.39 281.05,42.5 374.2,98.39 281.05,154.28 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="181.9" y="92.39">n</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="380.2" y="92.39">1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="281.05" y="102.39">Articles remboursés</text>
   </g>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="531.9" y1="424.27" x2="594.9" y2="423.5"/>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="120.8" y1="423" x2="361" y2="424.27"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="524.2" y1="422.96" x2="594.9" y2="423.5"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="120.8" y1="423" x2="361" y2="422.96"/>
   <g>
     <polygon style="fill: #ffffff" points="368.9,305.15 446.65,258.5 524.4,305.15 446.65,351.8 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="368.9,305.15 446.65,258.5 524.4,305.15 446.65,351.8 "/>
@@ -123,6 +103,15 @@
   </g>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="79.85" y1="405" x2="368.9" y2="305.15"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="524.4" y1="305.15" x2="547.15" y2="227"/>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="397.3" y1="98.32" x2="641.9" y2="99"/>
-  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="79.85" y1="405" x2="187.9" y2="98.32"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="374.2" y1="98.39" x2="641.9" y2="99"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="79.85" y1="405" x2="187.9" y2="98.39"/>
+  <g>
+    <polygon style="fill: #ffffff" points="361.6,542.96 443.2,494 524.8,542.96 443.2,591.92 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="361.6,542.96 443.2,494 524.8,542.96 443.2,591.92 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="355.6" y="536.96">n</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="530.8" y="536.96">1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="443.2" y="546.96">articles retires</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="79.85" y1="441" x2="361.6" y2="542.96"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="524.8" y1="542.96" x2="705.15" y2="441.5"/>
 </svg>

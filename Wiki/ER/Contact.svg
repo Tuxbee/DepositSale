@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="13cm" height="7cm" viewBox="50 99 247 140" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="33cm" height="4cm" viewBox="118 82 641 77" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect style="fill: #ffffff" x="140" y="100" width="81.9" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="100" width="81.9" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="180.95" y="122">Contact</text>
+    <rect style="fill: #ffffff" x="421" y="101" width="81.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="421" y="101" width="81.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="461.95" y="123">Contact</text>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="108.25" y1="198" x2="171.64" y2="143.94"/>
-    <polygon style="fill: #ffffff" points="174.884,147.744 179.249,137.451 168.395,140.136 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="174.884,147.744 179.249,137.451 168.395,140.136 "/>
+    <rect style="fill: #ffffff" x="683.9" y="100" width="74.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="683.9" y="100" width="74.2" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="721" y="122">Client</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="221.9" y="201" width="74.2" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="221.9" y="201" width="74.2" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="259" y="223">Client</text>
+    <rect style="fill: #ffffff" x="119.9" y="103" width="112.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="119.9" y="103" width="112.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="176.25" y="125">Fournisseur</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="51.9" y="198" width="112.7" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="51.9" y="198" width="112.7" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="108.25" y="220">Fournisseur</text>
+    <polygon style="fill: #ffffff" points="273,120.41 335.35,83 397.7,120.41 335.35,157.82 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="273,120.41 335.35,83 397.7,120.41 335.35,157.82 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="267" y="114.41">0..1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="403.7" y="114.41">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="335.35" y="124.41">RepresenteF</text>
   </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="421" y1="119" x2="397.7" y2="120.41"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="273" y1="120.41" x2="232.6" y2="121"/>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="259" y1="201" x2="190.352" y2="143.83"/>
-    <polygon style="fill: #ffffff" points="193.552,139.988 182.668,137.431 187.153,147.672 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="193.552,139.988 182.668,137.431 187.153,147.672 "/>
+    <polygon style="fill: #ffffff" points="520.311,120.41 582.661,83 645.011,120.41 582.661,157.82 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520.311,120.41 582.661,83 645.011,120.41 582.661,157.82 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="514.311" y="114.41">1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="651.011" y="114.41">0..1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="582.661" y="124.41">RepresenteC</text>
   </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="682.913" y1="119.208" x2="645.011" y2="120.41"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="520.311" y1="120.41" x2="502.9" y2="119"/>
 </svg>
