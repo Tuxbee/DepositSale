@@ -1,0 +1,125 @@
+﻿@model DepositSale.VM.ContactVM
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Contact</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.RegisterDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.RegisterDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.Street)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.Street)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.PostCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.PostCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.CountryCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.CountryCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.EmailAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.EmailAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EditedContact.PhoneNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EditedContact.PhoneNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsCustomer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsCustomer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsProvider)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsProvider)
+        </dd>
+
+        @if (Model.IsProvider)
+        {
+           <dt>
+               @Html.DisplayNameFor(model => model.EditedContact.AssociatedProvider.IBANAccount)
+           </dt>
+
+           <dd>
+               @Html.DisplayFor(model => model.EditedContact.AssociatedProvider.IBANAccount)
+           </dd>
+        }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EditedContact.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

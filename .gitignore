@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/DepositSale/bin
+/DepositSale/obj/Debug
+/DepositSale/DepositSale.csproj.user
